@@ -1,2 +1,7 @@
-# ValidacionNombre-CH45
-Ejercicio con Javascripr para validar un campo introducido.
+# Validación de Nombre
+
+Entrega de un ejercicio con Javascripr para validar un campo introducido.
+
+---
+
+> AMV
